@@ -1,4 +1,4 @@
-Objective: 
+**Objective:** 
 
 • The objective of this assignment is to analyze the weather data and extract the
 hypotheses to arrive at a prediction
@@ -10,7 +10,7 @@ https://github.com/martandsingh/datasets/blob/master/weatherHistory.csv
 • The dataset consists of different attributes describing the weather condition
 such as temperature, humidity, pressure…etc
 
-steps:
+**steps:**
 
 1- Loading the data and performing some pandas function.
 
