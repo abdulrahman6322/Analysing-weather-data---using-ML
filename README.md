@@ -11,6 +11,7 @@ https://github.com/martandsingh/datasets/blob/master/weatherHistory.csv
 such as temperature, humidity, pressure…etc
 
 steps:
+
 1- Loading the data and performing some pandas function.
 
 2- Splitting the Whole data into X (input features ) and y
